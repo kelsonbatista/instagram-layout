@@ -1,0 +1,1 @@
+Arquivo está sendo ignorado
