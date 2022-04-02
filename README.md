@@ -1,9 +1,21 @@
-# instagram-model
-Instagram model
-linha 4
-alteração 1 feature2.0
-Adicionado tags
+# About the project / *Sobre o projeto*
 
-linha 1
-linha 2
-linha 3
+This project is the classic Instagram login page layout, based in HTML and CSS.
+
+*Esse projeto é o clássico layout da página de login do Instagram, baseado em HTML e CSS.*
+
+---
+# Skills / *Habilidades*
+
+ - HTML
+ - CSS
+
+---
+# Layout
+
+<img src="intro.jpg" alt="Instagram Layout" />
+
+---
+# Deployment / *Implantação*
+
+See it in action/ **Veja em ação**: [https://kelsonbatista.github.io/instagram-layout/](https://kelsonbatista.github.io/instagram-layout/)
